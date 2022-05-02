@@ -29,7 +29,7 @@ function Heading() {
                 </a>
               </li>
               <li>
-                <a href="" className="blue-text text-darken-2">
+                <a href="https://github.com/ayushi25jaiswal/Notes_Keeper" className="blue-text text-darken-2">
                   <i className="material-icons">code</i>
                 </a>
               </li>
