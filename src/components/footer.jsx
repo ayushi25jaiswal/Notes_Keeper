@@ -9,7 +9,7 @@ function Footer() {
           <div className="blue lighten-2 footer-copyright">
             <div className="container white-text text-lighten-2 ">
             <center>
-            <a className="white-text text-lighten-2 middle" href="https://ishandeveloper.com">Made with ♥ by <b>ishandeveloper</b></a>
+            <a className="white-text text-lighten-2 middle" href="#"> </a>
             </center>
             </div>
           </div>
